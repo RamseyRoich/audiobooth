@@ -59,3 +59,7 @@ Always visible at the bottom of the window:
 
 - **Spotify and Apple Music** don't allow their audio to be downloaded or streamed inside third-party apps. For those services Audio-booth will use their official SDKs or hand playback off to the official app, and offline downloads won't be available for their tracks.
 - **Lyrics** on the major services come from licensed providers (mostly Musixmatch and LyricFind). The public release will need a licensed lyrics API rather than reading lyrics from each service directly.
+
+## Credits
+
+Created by **RamselSpamton** and **Claude** (Anthropic).
